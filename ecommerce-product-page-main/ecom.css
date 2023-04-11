@@ -1,0 +1,109 @@
+@import url(https://fonts.google.com/specimen/Kumbh+Sans);
+.container{
+    width: 1440px;
+    /* background-color: yellow; */
+    align-self: center;
+}
+body{
+    display:flexbox;
+    align-items:center;
+    height:100vh;
+    width:1440px;
+    margin-left:30px;
+}
+.navbar{
+    display:flex;
+    flex-direction: row;
+    gap:300px;
+    border-bottom: 1px solid hsl(220, 14%, 75%);
+
+
+}
+.nav1{
+    display:flex;
+    flex-direction: row;
+
+
+}
+nav2{
+    display:flex;
+    flex-direction: row;
+    
+
+}
+.main{
+    display:flex;
+    flex-direction: row;
+
+}
+.right{
+    display:flex;
+    flex-direction: column;
+
+}
+.down{
+    display:flex;
+    flex-direction: row;
+
+}
+.left{
+    display:flex;
+    flex-direction: column;
+
+}
+.sneaker-company{
+    display:flex;
+    flex-direction: column;
+
+}
+.fall{
+    display:flex;
+    flex-direction: column;
+
+}
+.paragraph{
+    display:flex;
+    flex-direction: column;
+
+}
+.discount{
+    display:flex;
+    flex-direction: row;
+
+}
+.dis{
+    display:flex;
+    flex-direction: column;
+
+}
+.percent{
+    display:flex;
+    flex-direction: column;
+
+}
+.initial{
+    display:flex;
+    flex-direction: column;
+}
+.price{
+    display:flex;
+    flex-direction: row;
+}
+.part1{
+    display:flex;
+    flex-direction: row;
+}
+.part2{
+    display:flex;
+    flex-direction: row;
+
+}
+.up{
+    padding:30px;
+
+    /* height:80px;
+    width:150px;*/
+} 
+.right down prod1{
+    border-radius: 20px;
+}
